@@ -1,0 +1,12 @@
+{
+    "cursos": [
+      { "id": 1, "img": "/assets/img/angular-homepage.jpg", "titulo": "Angular", "descripcion": "Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página." },
+      { "id": 2, "img": "/assets/img/react.png", "titulo": "React js", "descripcion": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre. Han participado en el proyecto más de mil desarrolladores diferentes." },
+      { "id": 3, "img": "/assets/img/vue.jpeg", "titulo": "Vue js", "descripcion": "Vue.js es un marco de JavaScript front-end modelo-vista-vista-modelo de código abierto para crear interfaces de usuario y aplicaciones de una sola página. Fue creado por Evan You, y es mantenido por él y el resto de los miembros activos del equipo principal que provienen de varias compañías como Netlify y Netguru." },
+      { "id": 4, "img": "/assets/img/flutter.jpeg", "titulo": "Flutter", "descripcion": "Flutter es un SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google. Suele usarse para desarrollar interfaces de usuario para aplicaciones en Android, iOS y Web así como método primario para crear aplicaciones para Google Fuchsia.​" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
